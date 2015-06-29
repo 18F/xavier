@@ -1,5 +1,11 @@
 [![Build Status](https://api.travis-ci.org/GSA-OCSIT/mygov-account.png?branch=master)](http://travis-ci.org/GSA-OCSIT/mygov-account)
 
+# [DEPRECATED] 
+For the current work relating to this project, please visit https://github.com/18f/myusa. 
+
+----
+
+
 ## MyUSA
 
 MyUSA is a platform for citizen identity.
